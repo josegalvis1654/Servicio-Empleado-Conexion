@@ -1,0 +1,19 @@
+Productos:
+-Nombre
+-Tipo
+-Proveedor
+-Estado(Bueno, caducado, cerca de caducarse)
+-Stock
+-Condiciones de almacenamiento
+
+Proveedores:
+-Razón social
+-NIT
+-Representante Legal
+-Dirección 
+-Teléfono
+-Correo Electrónico
+-Vehículos asociados
+
+
+

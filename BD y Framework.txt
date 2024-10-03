@@ -1,0 +1,6 @@
+https://www.psycopg.org //Librería para postgres en Django
+Frontend:
+-Angular
+Backend:
+-Django: Servicios grandes, excepto API
+-Nestjs: Microservicios
